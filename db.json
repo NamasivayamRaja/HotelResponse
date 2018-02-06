@@ -1,5 +1,7 @@
-[{"hotelId":"494183","lowestPrice":7387.53,"FareWithMarkUP":7388,"ota":"EXPEDIA","roomId":null,"ratePlanId":null,"baseFare":5957.68,"tax":1429.85,"discount":0,"commission":357,"AgentCommission":142.8,"FareWithDiscount":0,"commissionType":"ABSOLUTE","AgentCommision":0,"MarkupAmt":0,"AgentmarkupAmt":0,"Agentmarkuptype":null},
+{
+"SearchResult":[{"hotelId":"494183","lowestPrice":7387.53,"FareWithMarkUP":7388,"ota":"EXPEDIA","roomId":null,"ratePlanId":null,"baseFare":5957.68,"tax":1429.85,"discount":0,"commission":357,"AgentCommission":142.8,"FareWithDiscount":0,"commissionType":"ABSOLUTE","AgentCommision":0,"MarkupAmt":0,"AgentmarkupAmt":0,"Agentmarkuptype":null},
 {"hotelId":"494184","lowestPrice":7387.53,"FareWithMarkUP":8388,"ota":"EXPEDIA","roomId":null,"ratePlanId":null,"baseFare":5957.68,"tax":1429.85,"discount":0,"commission":357,"AgentCommission":142.8,"FareWithDiscount":0,"commissionType":"ABSOLUTE","AgentCommision":0,"MarkupAmt":0,"AgentmarkupAmt":0,"Agentmarkuptype":null},
 {"hotelId":"494185","lowestPrice":7387.53,"FareWithMarkUP":9388,"ota":"EXPEDIA","roomId":null,"ratePlanId":null,"baseFare":5957.68,"tax":1429.85,"discount":0,"commission":357,"AgentCommission":142.8,"FareWithDiscount":0,"commissionType":"ABSOLUTE","AgentCommision":0,"MarkupAmt":0,"AgentmarkupAmt":0,"Agentmarkuptype":null},
 {"hotelId":"494186","lowestPrice":7387.53,"FareWithMarkUP":7388,"ota":"EXPEDIA","roomId":null,"ratePlanId":null,"baseFare":5957.68,"tax":1429.85,"discount":0,"commission":357,"AgentCommission":142.8,"FareWithDiscount":0,"commissionType":"ABSOLUTE","AgentCommision":0,"MarkupAmt":0,"AgentmarkupAmt":0,"Agentmarkuptype":null}
 ]
+}
