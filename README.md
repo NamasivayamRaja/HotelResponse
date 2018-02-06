@@ -1,0 +1,2 @@
+# HotelResponse
+sample response data
